@@ -1,0 +1,24 @@
+body{
+	margin: 0;
+	font-family: Helvetica, Arial, sans-serif;
+}
+
+header{
+	background-color: steelblue;
+	text-align: center;
+	padding-bottom: 50px;
+	padding-top: 50px;
+	font-family: Helvetica, Arial, sans-serif;
+}
+h1, h2 {
+	font-family: 'Farro', sans-serif;
+}
+header h1{
+	color: white;
+}
+
+header img{
+	border-radius: 200px;
+	width: 350px;
+	border: 15px solid white
+}
